@@ -5,3 +5,7 @@
 * Optimized to maximize profit
 
 ![](https://github.com/math-junky/Robert_Portfolio/blob/main/images/Max_Profit.png)
+
+### Modeling Low-Level Ozone
+* Regression problem using boosted decision trees
+
