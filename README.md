@@ -3,6 +3,3 @@
 ### [Prediciting Loan Default](https://github.com/math-junky/Loan_Default_Prediction)
 * Classification problem using logistic regression
 * Optimized to maximize profit
-
-# Test
-This is a test
