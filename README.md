@@ -8,4 +8,5 @@
 
 ### [Modeling Low-Level Ozone](https://github.com/math-junky/Modeling_Ozone)
 * Regression problem using boosted decision trees
+* Model comparison between OLS and BDT conducted
 
