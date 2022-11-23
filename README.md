@@ -4,7 +4,7 @@
 * Classification problem using logistic regression
 * Optimized to maximize profit
 
-![](Max_Profit.png)
+![](math-junky/Robert_Portfolio/blob/main/images/Max_Profit.png)
 
 ### [Modeling Low-Level Ozone](https://github.com/math-junky/Modeling_Ozone)
 * Regression problem using boosted decision trees
